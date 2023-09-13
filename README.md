@@ -1,2 +1,2 @@
-# Job-Collection-Scheduler
-Using linear data structures and algorithms and developing reusable abstract data types to store and schedule a collection of computing jobs. As part of CAB301 - Algorithms and Complexity.
+# Job Collection Scheduler
+Using linear data structures and algorithms and developing reusable abstract data types (ADTs) to store and schedule a collection of computing jobs. Implementing linear data structure-based algorithm design and analysis techniques, making use of ADTs to model computing jobs in the operating system of a computer, storing and manipulating a collection of said computing jobs, as well as scheduling and managing the execution of computing jobs based on 1. First-Come, First-Served scheduling, 2. Shortest Job First scheduling, and 3. Priority scheduling. Selection sort algorithm was used.
